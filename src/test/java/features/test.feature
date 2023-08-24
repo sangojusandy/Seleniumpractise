@@ -7,4 +7,4 @@ Feature: verify login module
     Then I should be redirected to Dashboard
     Examples:
       |    Username                     | password                   |
-      |    test | Test  |
+      |    username | password  |
